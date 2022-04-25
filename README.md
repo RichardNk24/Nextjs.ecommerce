@@ -1,4 +1,4 @@
-#Rich Store: Find Audio Devices On the go
+# Rich Store Demo: Find Audio Devices On The Go
 
 <img width="1422" alt="Screen Shot 2022-04-25 at 5 01 03 PM" src="https://user-images.githubusercontent.com/64165035/165116768-5c28d0e9-9eb6-4dee-b73d-49251480a600.png">
 
