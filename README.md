@@ -1,3 +1,10 @@
+#Rich Store: Find Audio Devices On the go
+
+<img width="1422" alt="Screen Shot 2022-04-25 at 5 01 03 PM" src="https://user-images.githubusercontent.com/64165035/165116768-5c28d0e9-9eb6-4dee-b73d-49251480a600.png">
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
