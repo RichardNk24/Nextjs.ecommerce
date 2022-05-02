@@ -43,9 +43,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Important Functions
 
-[getStaticPaths](https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props)
+These are some of the functions that I learned when completing this project. I was amazed to see
+
+[getStaticPaths](https://nextjs.org/docs/basic-features/data-fetching/get-static-paths)
 
 [getServerSideProps](https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props)
 
+[getStaticProps](https://nextjs.org/docs/basic-features/data-fetching/get-static-props)
 
 
