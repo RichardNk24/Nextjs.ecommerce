@@ -43,7 +43,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Important Functions
 
-These are some of the functions that I learned when completing this project. I was amazed to see
+These are some of the functions that I learned when completing this project. I was amazed to see how pages are pre-rendered at built time.
 
 [getStaticPaths](https://nextjs.org/docs/basic-features/data-fetching/get-static-paths)
 
